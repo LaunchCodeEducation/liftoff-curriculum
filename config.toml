@@ -1,0 +1,11 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'relearn'
+
+# For search functionality
+[outputs]
+home = [ "HTML", "RSS", "SEARCH"]
+
+relativeURLs = true
+
