@@ -1,11 +1,11 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'relearn'
+languageCode = "en-us"
+title = "Liftoff Curriculum"
+theme = "hugo-theme-relearn"
 
-# For search functionality
+canonifyURLs = true
+
+[params]
+  themeVariant = ["lc-light", "lc-dark-blue", "lc-dark-blue-two"]
+
 [outputs]
-home = [ "HTML", "RSS", "SEARCH"]
-
-relativeURLs = true
-
+  home = ["HTML", "RSS", "JSON"]

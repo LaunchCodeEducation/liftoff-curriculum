@@ -1,3 +1,9 @@
-[submodule "themes/relearn"]
-	path = themes/relearn
-	url = https://github.com/McShelby/hugo-theme-relearn
+[submodule "themes/hugo-theme-relearn"]
+	path = themes/hugo-theme-relearn
+	url = https://github.com/LaunchCode-Hugo-Submodules/hugo-theme-relearn
+[submodule "layouts"]
+	path = layouts
+	url = https://github.com/LaunchCode-Hugo-Submodules/layouts
+[submodule "static"]
+	path = static
+	url = https://github.com/LaunchCode-Hugo-Submodules/static
