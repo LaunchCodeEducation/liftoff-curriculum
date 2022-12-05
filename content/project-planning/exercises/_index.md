@@ -6,7 +6,7 @@ draft: false
 
 ## Project Idea Outlines
 
-The final outcome of this class is a functional team project.  We need to be able to start working on our team project in the first studio.  Please come to class prepared and ready to work.
+The final outcome of this class is a functional team project.  You need to be able to start working on our team project in the first studio.  Please come to class prepared and ready to work.
 
 **Submit 2-3 project outlines before you meet for your class studio.**  Use the questions below to create your very high-level, big-picture outline of **_each_** project idea.  The more information you provide, the more your team will have to discuss during studio time.  
 
