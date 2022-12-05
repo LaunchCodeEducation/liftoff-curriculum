@@ -2,7 +2,6 @@
 title = "Project Planning"
 weight = 100
 +++
- # WHAT IS THIS THING???
  
 ### Lesson Objectives
 1. Understand the goal of creating a Liftoff project

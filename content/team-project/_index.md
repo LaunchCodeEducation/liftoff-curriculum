@@ -1,10 +1,7 @@
 +++
-archetype = "Team Project Overview"
 title = "Team Project Overview"
-weight = 1
+weight = 100
 +++
-
-## Team Project Overview
 
 Your final team project is one of the most essential pieces of landing a LaunchCode apprenticeship. Your team project is one of the primary ways that LaunchCode and potential employers will verify that you are job-ready, and it should be something that you’re proud to show off. So don’t skimp on the time, energy, and thought that you put into this!
 
