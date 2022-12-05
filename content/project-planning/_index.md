@@ -1,9 +1,9 @@
 +++
-archetype = "Lesson 1"
-title = "Lesson 1: Project Planning"
-weight = 1
+title = "Project Planning"
+weight = 100
 +++
-
+ # WHAT IS THIS THING???
+ 
 ### Lesson Objectives
 1. Understand the goal of creating a Liftoff project
 1. Explain the key components of a meaningful project
@@ -14,12 +14,17 @@ weight = 1
 
 ## Project Planning and Liftoff Overview
 
-Welcome to Liftoff.  
+### Welcome to Liftoff!
+
+During this portion of your class, you will:
+
+1. Complete a significant amount of work towards a collaborative, team project.
+1. Prepare for the job interview process.
 
 Liftoff classes will be delivered in a similar manner as your previous coding courses.  You will be assigned prep work and project work.  Class time will focus on lecture and studio time.  To make the most of this section, please keep up with prep work and project work.
 
 
-{{% notice style="primary" title="Prep Work Includes" %}}
+{{% notice note %}}
    + Assigned readings
    + Concept checks
    + Exercises  
@@ -27,11 +32,9 @@ Liftoff classes will be delivered in a similar manner as your previous coding co
 
 We expect that you will complete the  assigned prep work before each lecture.  Be sure to give yourself enough time to read and apply what you learn to your projects.
 
-{{% notice style="secondary" title="Project Work Includes" %}}
+{{% notice %}}
    - Completeing all assigned tasks during class and outside of class
    - Meeting with your project group in and outside of class
    - Creating a presentation
    - Group presentation of your project
 {{% /notice %}}
-
-
