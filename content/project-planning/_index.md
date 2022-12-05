@@ -1,6 +1,6 @@
 ---
 title: "Lesson 1 Project Planning"
-weight: 1
+weight: 105
 ---
 
 ### Lesson Objectives
