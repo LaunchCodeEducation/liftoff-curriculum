@@ -1,7 +1,7 @@
 +++
 archetype = ""
 title = "Course Resources"
-weight = 1
+weight = 2
 +++
 
 

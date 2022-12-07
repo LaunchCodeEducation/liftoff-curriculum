@@ -1,6 +1,6 @@
 ---
 title: "Liftoff Table of Contents"
-weight: 100
+weight: 1
 ---
 
 # Liftoff
