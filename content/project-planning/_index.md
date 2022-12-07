@@ -53,3 +53,5 @@ Making a project, especially your first team project, can be a daunting task. Yo
    - Creating regular meeting times and places can help set the pace for your team. 
    - If you need more together time, schedule it.  Hold each other accountable for making each meeting.
 {{% /notice %}}
+
+
