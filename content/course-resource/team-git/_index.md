@@ -1,7 +1,6 @@
 ---
 title: "Team GitHub Workflow"
-date: 2022-11-29T15:25:02-06:00
-draft: true
+weight: 100
 ---
 
 ## Team Project Git Workflow

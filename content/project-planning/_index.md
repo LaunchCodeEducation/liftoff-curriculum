@@ -1,15 +1,7 @@
 +++
-title = "Project Planning"
+title = "Lesson 1: Project Planning"
 weight = 100
 +++
- 
-### Lesson Objectives
-1. Understand the goal of creating a Liftoff project
-1. Explain the key components of a meaningful project
-1. Generate an idea for a group project that meets the provided criteria
-1. Identify and assign roles for the project team
-1. Describe story mapping, epics, and user stories
-1. Create user stories that identify the targeted user and describe a single use case or action
 
 ## Project Planning and Liftoff Overview
 
@@ -54,4 +46,29 @@ Making a project, especially your first team project, can be a daunting task. Yo
    - If you need more together time, schedule it.  Hold each other accountable for making each meeting.
 {{% /notice %}}
 
+ 
+## Major Concepts
+1. Understand the goal of creating a Liftoff project
+1. Explain the key components of a meaningful project
+1. Generate an idea for a group project that meets the provided criteria
+1. Identify and assign roles for the project team
+1. Describe story mapping, epics, and user stories
+1. Create user stories that identify the targeted user and describe a single use case or action
 
+
+## Key Terminology
+
+- User Story
+- Epic
+- Feature
+- Task
+- Story Points
+- Scope
+- Definition of Done
+- Front-End Developer
+- Back-End Developer
+- Full-Stack Developer
+- Git Workflow
+- Main Branch
+- Feature Branch
+- Pull Request

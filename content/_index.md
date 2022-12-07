@@ -14,3 +14,5 @@ weight: 1
 [Lesson 3:]({{<ref "">}} "")
 
 [Lesson 4:]({{<ref "">}} "")
+
+[Course Resources]({{<ref "/course-resource/_index.md" >}} "project-planning")
