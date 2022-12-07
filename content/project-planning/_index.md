@@ -25,16 +25,16 @@ We expect that you will complete the  assigned prep work before each lecture.  B
 
 ## Liftoff Expectations
 
-WORK ON THIS SECTION
+### WORK ON THIS SECTION
 Work together in your team
 Make progress independently 
 
 {{% notice style="primary" title="Liftoff Expectations" %}}
-   - Completeing all assigned tasks during class and outside of class.
+   - Complete all assigned tasks during class and outside of class
    - Class attendance and participation
    - Completion and submission of all assignments
    - Visible progress on your project every week
-   - Meeting with your project group in and outside of class.
+   - Meeting with your project group in and outside of class
    - Group presentation of your project
 {{% /notice %}}
 

@@ -10,7 +10,8 @@ draft: false
 
 - [User Stories]
 - [Development Roles and Workflows](https://docs.google.com/document/d1y_J_-7ZzZXZbC8VmIBdNDhsJ_TLTMG9kEs9RSD42ElI/edit#) 
-- [Team Git Workflow]({{<ref "/team-git">}})- [GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart)
+- [Team Git Workflow]({{<ref "/team-git">}})
+- [GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart)
 
 **Team Development Topics**
 - [Development Team Structure](https://stormotion.io/blog/6-tips-on-how-to-structure-a-development-team/)
