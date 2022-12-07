@@ -5,4 +5,4 @@ weight = 1
 +++
 
 
-[Team GitHub Workflow]({{< ref "/team-git-flow.md" >}})
+[Team GitHub Workflow]({{< ref "./team-git/_index.md" >}} "Team GitHub Workflow")

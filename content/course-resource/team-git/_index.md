@@ -14,7 +14,7 @@ A **Git workflow** is a strategy for using Git. Git is a powerful tool that can 
  
 #### Feature Branch Workflow
  
-The feature branch workflow is focused on keeping work on different features in separate feature branches. Those feature branches are then merged into a main branch.
+The [feature branch workflow](https://learn.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops#keep-your-branch-strategy-simple) is focused on keeping work on different features in separate feature branches. Those feature branches are then merged into a main branch.
  
 ##### Main Branch
  
