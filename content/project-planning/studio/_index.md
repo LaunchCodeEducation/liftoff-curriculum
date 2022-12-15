@@ -3,14 +3,15 @@ title: "Studio: Creating Teams and User Stories"
 date: 2022-11-29T15:25:00-06:00
 draft: false
 ---
-Team Project Introduction
+
+## Team Project Introduction
 
 The final project for this class is a collaborative team project.  You will be placed into project teams by your instructor.  You will need to decide on roles or areas of focus.  Each team will have a TA mentor who will help you set up your team project but is not responsible for leading your project.  
 
-#### Your Mentor (Your TA)
+### Your Mentor (Your TA)
 In each class, you will check in with your mentor and share your progress, blockers, and questions. Your mentor is a guide and team manager.  They will help you set up your Trello board and main GitHub repository.  
 
-#### Team Roles
+### Team Roles
 As a team, divide up the work and assign roles.  You will have time in class to work on your project together.  You will also need to find time outside of class to meet and work on your project together.  Scheduling meetings outside of class time is your responsibility.  You are responsible for meeting deadlines and final project completion as a team.
 
 [LINK BACK TO ROLES RESOURCES]
@@ -40,13 +41,14 @@ Submit a high-level outline of your project in the repo's `README.md` file.  You
 As a team, flesh out the following:
 
 1. **Overview:**  In 1-2 paragraphs, provide an "elevator pitch" for your project.  
-> Consider the following:
-> - What will your application do?  
-> - What problem does it solve?  
-> - Where did the idea come from?
-> - What might users find useful about it?  
-> - How would someone use it? 
-> - Who is your ideal user?  Why?
+
+   Consider the following:
+   - What will your application do?  
+   - What problem does it solve?  
+   - Where did the idea come from?
+   - What might users find useful about it?  
+   - How would someone use it? 
+   - Who is your ideal user?  Why?
 
 2. **Features:** Each team member should provide at least 2 features.  Each feature should have a name and 1-2 sentence descriptions.
 

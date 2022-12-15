@@ -47,28 +47,5 @@ Making a project, especially your first team project, can be a daunting task. Yo
 {{% /notice %}}
 
  
-## Major Concepts
-1. Understand the goal of creating a Liftoff project
-1. Explain the key components of a meaningful project
-1. Generate an idea for a group project that meets the provided criteria
-1. Identify and assign roles for the project team
-1. Describe story mapping, epics, and user stories
-1. Create user stories that identify the targeted user and describe a single use case or action
+## Team Project Overview
 
-
-## Key Terminology
-
-- User Story
-- Epic
-- Feature
-- Task
-- Story Points
-- Scope
-- Definition of Done
-- Front-End Developer
-- Back-End Developer
-- Full-Stack Developer
-- Git Workflow
-- Main Branch
-- Feature Branch
-- Pull Request

@@ -26,8 +26,6 @@ Your project should:
 
 ### Project Guidelines
 
-Regardless of the project your team tackles, you should:
-
 * **Build an application:**  Either build it entirely as a team from scratch or add to a previously started codebase. If using existing code, you need to go well beyond what was provided or worked on by others. **You should be able to clearly articulate what you built yourself versus what was built by others**.
 
 
