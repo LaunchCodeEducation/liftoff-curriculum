@@ -49,18 +49,22 @@ Each feature should be as small as possible, while still adding value to the pro
  
 When you go to work on a feature, you will need to create a branch specifically for that feature. Most of the time you will branch off of the `main` branch.
 
-
-{{% notice style="note" title="Feature Branch Example" %}}
-
 If we want to create a feature branch for the “Fix change password bug” feature.
 
 1. Make sure you are on the correct base branch before creating the new feature branch.
-   - `git checkout main`
+   ```bash
+   git checkout main
+   ```
 1. Pull to make sure that the base branch is up to date.
-   - `git pull`
+   ```bash
+   git pull
+   ```
 
 1. Create a new branch with a meaningful name.
-   - `git checkout -b <branch-name>` creates and switches to the newly named branch
+   ```
+   git checkout -b <branch-name>
+   ```
+   creates and switches to the newly named branch
 
    - Let's make a feature branch for fixing the password bug:  `git checkout -b fix-change-password-bug`
 
@@ -72,9 +76,6 @@ If we want to create a feature branch for the “Fix change password bug” feat
 
 1. Start working on your feature branch.
 
-{{% /notice %}}
-
-
 ### Making Commits
  
 You will write code and make commits to implement the feature. Make a commit when you have made progress towards the feature. Don’t commit every time you add a line of code. Don’t wait too long to commit or you will forget what you have done.
@@ -84,18 +85,42 @@ Make sure you write [helpful commit messages](https://www.freecodecamp.org/news/
 ### Push Your Work to Origin
  
 After making commits to your feature branch, you will need to push them to the origin. This will make sure they are backed up in case something bad happens to your computer and it will make the branch visible on origin.
+
+The first time you push your feature branch up to the repo you may see the following Git message: 
  
+`fatal: The current branch test has no upstream branch.` 
+`To push the current branch and set the remote as upstream, use`
+
+   `git push --set-upstream origin <branch-name>`
+
+`To have this happen automatically for branches without a tracking upstream,` 
+`see 'push.autoSetupRemote' in 'git help config'.`
+
+- what is this?  why?
+
+- after this, you will be able to use git push
+
+- don't panic!
+
 ## Pull Requests
  
-A **pull request (PR)** represents the process of merging (or pulling) a feature branch into `main`. A pull request is created and managed on your repository page on GitHub. Pull requests provide a user interface for reviewing files that were changed, approving the changes, and finally merging those changes into the master branch.
+A **pull request (PR)** represents the process of merging (or pulling) a feature branch into `main`. 
+A pull request is created and managed on your repository page on GitHub. 
+Pull requests provide a user interface for reviewing files that were changed, approving the changes, and finally merging those changes into the `main` branch.
  
 {{% notice note %}}
-   Pull requests can be created to merge a branch into any other branch. For the majority of this project, your pull requests will merge a feature branch into the master branch.
+   Pull requests can be created to merge a branch into any other branch. 
+   
+   For the majority of this project, your pull requests will merge a feature branch into the `main` branch.
 {{% /notice %}}
+
+[Creating a pull request](]https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) Tutorial
+
 
 
  
 How to Create a Pull Request
  
-You can create a PR anytime after you have pushed your feature branch to origin. You can wait until you are done coding and you have verified that the feature works.
+You can create a PR anytime after you have pushed your feature branch to origin. 
+You can wait until you are done coding and you have verified that the feature works.
 
