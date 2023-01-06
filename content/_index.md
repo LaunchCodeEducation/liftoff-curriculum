@@ -6,5 +6,5 @@ weight: 100
 
 # Liftoff
 
-Lesson 1: Project Planning
+{{% children %}}
 
